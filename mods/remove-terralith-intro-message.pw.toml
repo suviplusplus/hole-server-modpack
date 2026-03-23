@@ -1,66 +1,14 @@
-filename = 'zRemove_SDL_Intro_v1.2.1.jar'
-name = 'Remove Stardust Labs Intro Message'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [
-    '1.19',
-    '1.19',
-    '1.19.1',
-    '1.19.1',
-    '1.19.2',
-    '1.19.2',
-    '1.19.3',
-    '1.19.3',
-    '1.19.4',
-    '1.19.4',
-    '1.20',
-    '1.20',
-    '1.20.1',
-    '1.20.1',
-    '1.20.2',
-    '1.20.2',
-    '1.20.3',
-    '1.20.3',
-    '1.20.4',
-    '1.20.4',
-    '1.20.5',
-    '1.20.5',
-    '1.20.6',
-    '1.20.6',
-    '1.21',
-    '1.21',
-    '1.21.1',
-    '1.21.1',
-    '1.21.10',
-    '1.21.10',
-    '1.21.11',
-    '1.21.11',
-    '1.21.2',
-    '1.21.2',
-    '1.21.3',
-    '1.21.3',
-    '1.21.4',
-    '1.21.4',
-    '1.21.5',
-    '1.21.5',
-    '1.21.6',
-    '1.21.6',
-    '1.21.7',
-    '1.21.7',
-    '1.21.8',
-    '1.21.8',
-    '1.21.9',
-    '1.21.9'
-]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.2.1'
+name = "Remove Stardust Labs Intro Message"
+filename = "zRemove_SDL_Intro_v1.2.1.jar"
+side = "both"
 
 [download]
-hash = 'aece0a392aab7dca4740daae0b8953ad1404d1103baac43da80d4ca5047c70d92923c274cccbaaf2a23852bc1a9b2127231d30fc4e4b69ab36c2f5b2a86aab39'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/sk4iFZGy/versions/KCvoK9x7/zRemove_SDL_Intro_v1.2.1.jar'
+url = "https://cdn.modrinth.com/data/sk4iFZGy/versions/KCvoK9x7/zRemove_SDL_Intro_v1.2.1.jar"
+hash-format = "sha256"
+hash = "5c102274167644d151973e2b4157dd6fe0aea55718ec3c9d25802e8a0dc6793f"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'sk4iFZGy'
-version = 'KCvoK9x7'
+mod-id = "sk4iFZGy"
+version = "KCvoK9x7"

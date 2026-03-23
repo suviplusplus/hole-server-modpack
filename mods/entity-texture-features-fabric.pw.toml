@@ -1,10 +1,10 @@
 name = "[ETF] Entity Texture Features - [Fabric & Forge]"
 filename = "entity_texture_features_1.20.1-fabric-7.0.9.jar"
-side = 'both'
+side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6c36f10621d1ff9ac9f615ab4bdbb74bf9c3a409"
+hash-format = "sha256"
+hash = "d343e00d5afdcb9c3ac06ac0239bd1637966c7bf713cec6edf5fe476ba0207de"
 mode = "metadata:curseforge"
 
 [update]

@@ -1,10 +1,10 @@
 name = "Enhanced Block Entities"
 filename = "enhancedblockentities-0.9+1.20.jar"
-side = 'both'
+side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "61cfe50f69f8ef9e3640c0269ef158870f5b0410"
+hash-format = "sha256"
+hash = "1c4ce2c00d8cc6d2269de3cadaba551607c62692a8e5ad1d7c618462ed7ed05b"
 mode = "metadata:curseforge"
 
 [update]

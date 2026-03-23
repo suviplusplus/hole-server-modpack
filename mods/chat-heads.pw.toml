@@ -1,17 +1,14 @@
-filename = 'chat_heads-0.15.0-fabric-1.20.jar'
-name = 'Chat Heads'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.15.0'
+name = "Chat Heads"
+filename = "chat_heads-0.15.0-fabric-1.20.jar"
+side = "both"
 
 [download]
-hash = '6609950f77ff6cc450ab93449d40671899c91d49c17abca4111e730c6b7b0a2b8a6eb2c4851a48dfd011e575e3d0042ab0345494fde40b81c01d87626262b496'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Nfb15p2T/chat_heads-0.15.0-fabric-1.20.jar'
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Nfb15p2T/chat_heads-0.15.0-fabric-1.20.jar"
+hash-format = "sha256"
+hash = "8a5737b9ca310b50361f969565e6893ad848194af72ef2ab1f5679e56a1e9ce3"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'Wb5oqrBJ'
-version = 'Nfb15p2T'
+mod-id = "Wb5oqrBJ"
+version = "Nfb15p2T"

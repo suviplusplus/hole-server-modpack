@@ -1,10 +1,10 @@
 name = "YUNG's Better Dungeons (Fabric)"
 filename = "YungsBetterDungeons-1.20-Fabric-4.0.4.jar"
-side = 'both'
+side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cb4ea32fe75c9dbcd62f6f3d3f912c1b79ac697a"
+hash-format = "sha256"
+hash = "6c69fd0316c448cf9c70b72dbea424a85be881f9adc3e7a56e8f0b08e3611fff"
 mode = "metadata:curseforge"
 
 [update]

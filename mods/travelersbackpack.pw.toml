@@ -1,17 +1,14 @@
-filename = 'travelersbackpack-fabric-1.20.1-9.1.50.jar'
 name = "Traveler's Backpack"
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.20.1-9.1.50'
+filename = "travelersbackpack-fabric-1.20.1-9.1.50.jar"
+side = "both"
 
 [download]
-hash = 'b91a94d5ff9f8e4d8184bf6cbca7b8a7ddf279199c2f9b2755ee04a24c119907d12c2c3a3646019077106ee5dfa306867544fa00de24fe7a988796913e828476'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/rlloIFEV/versions/hIiloTnQ/travelersbackpack-fabric-1.20.1-9.1.50.jar'
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/hIiloTnQ/travelersbackpack-fabric-1.20.1-9.1.50.jar"
+hash-format = "sha256"
+hash = "e40a5782958eb2c9b6330bf9ef61157f7b3a1048da86e3f107d9b7e13ded5e3c"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'rlloIFEV'
-version = 'hIiloTnQ'
+mod-id = "rlloIFEV"
+version = "hIiloTnQ"

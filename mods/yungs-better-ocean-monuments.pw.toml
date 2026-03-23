@@ -1,17 +1,14 @@
-filename = 'YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar'
 name = "YUNG's Better Ocean Monuments"
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.20-Fabric-3.0.4'
+filename = "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"
+side = "both"
 
 [download]
-hash = 'b050f94b70628f9cb64afe1d184b3fd5eee4a7d556ff81b05dd90e954484c415b24b235a8471085cbba2e28a1123e49de9a16e6e7bc52da585db81762562f186'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/3dT9sgt4/versions/4c00pjbt/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar'
+url = "https://cdn.modrinth.com/data/3dT9sgt4/versions/4c00pjbt/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"
+hash-format = "sha256"
+hash = "3013484bceee72540a1eb76d403a0c36db0fd6d99a1e1b5a398b37ca50f27fb2"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = '3dT9sgt4'
-version = '4c00pjbt'
+mod-id = "3dT9sgt4"
+version = "4c00pjbt"

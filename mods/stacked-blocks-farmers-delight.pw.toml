@@ -1,17 +1,14 @@
-filename = 'stackedblocksfarmersdelight-25.02.13-1.20-fabric.jar'
 name = "Stacked Blocks: Farmer's Delight"
-side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '25.02.13-1.20-fabric'
+filename = "stackedblocksfarmersdelight-25.02.13-1.20-fabric.jar"
+side = "both"
 
 [download]
-hash = '325c713840c70f84ac5d468f6e1b57ca0db3d1cc24ae642423c4feabe07b7bc040fd5bb04f5af2f7d681772f6ebd1157705a7916f238dbb87b5e77586ff36491'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/LQlQFBH9/versions/t6eTyRRo/stackedblocksfarmersdelight-25.02.13-1.20-fabric.jar'
+url = "https://cdn.modrinth.com/data/LQlQFBH9/versions/t6eTyRRo/stackedblocksfarmersdelight-25.02.13-1.20-fabric.jar"
+hash-format = "sha256"
+hash = "7c0888e6f0e809d51854131ea2f5c28bb54ae4c5ab2220b6a7324a1f401a2bb6"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'LQlQFBH9'
-version = 't6eTyRRo'
+mod-id = "LQlQFBH9"
+version = "t6eTyRRo"

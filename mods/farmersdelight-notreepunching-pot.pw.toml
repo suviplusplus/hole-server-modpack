@@ -1,17 +1,14 @@
-filename = 'farmersdelight-notreepunching-pot-1.0-fabric.jar'
 name = "Farmer's Delight x No Tree Punching Cooking Pot"
-side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.18.2', '1.18.2', '1.19.2', '1.19.2', '1.20', '1.20', '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.0-fabric+mod'
+filename = "farmersdelight-notreepunching-pot-1.0-fabric.jar"
+side = "both"
 
 [download]
-hash = 'acbcdd0f85daa000314a06d07f31e3f925a9f7f26ec01901bdf79d1d1d41bec8fd2e8c58903884c1588c1afeed5c5a53aadd84be488258ef8b7c7950900d7733'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/Rmopk4aS/versions/5Dx6XJhP/farmersdelight-notreepunching-pot-1.0-fabric.jar'
+url = "https://cdn.modrinth.com/data/Rmopk4aS/versions/5Dx6XJhP/farmersdelight-notreepunching-pot-1.0-fabric.jar"
+hash-format = "sha256"
+hash = "374fe6bc26ba9d4188dab2915f461b85c76bf0518671b1267e3a8120881f82d2"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'Rmopk4aS'
-version = '5Dx6XJhP'
+mod-id = "Rmopk4aS"
+version = "5Dx6XJhP"

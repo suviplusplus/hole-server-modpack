@@ -1,10 +1,10 @@
 name = "Text Placeholder API"
 filename = "placeholder-api-2.1.4+1.20.1.jar"
-side = 'both'
+side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "722efc56827ba973673b15ccc2e446c269a16faa"
+hash-format = "sha256"
+hash = "c9d5786d379cf574fb0607dcb8d93cddf2cde2d6e49e714a6597acbe34646708"
 mode = "metadata:curseforge"
 
 [update]

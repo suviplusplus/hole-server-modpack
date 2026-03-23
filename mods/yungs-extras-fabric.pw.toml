@@ -1,10 +1,10 @@
 name = "YUNG's Extras (Fabric)"
 filename = "YungsExtras-1.20-Fabric-4.0.3.jar"
-side = 'both'
+side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "356c7fa28e0929317c151d75ead603035521eaa3"
+hash-format = "sha256"
+hash = "1765d0885e8ebe530ae81f2b2ae3d6d93c842bb04e03bdbde00f2b45c918c97a"
 mode = "metadata:curseforge"
 
 [update]

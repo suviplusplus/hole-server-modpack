@@ -1,10 +1,10 @@
 name = "Traveler's Backpack [Fabric]"
 filename = "travelersbackpack-fabric-1.20.1-9.1.50.jar"
-side = 'both'
+side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "31d069954214cf554fa737f0f56ec6634e08a7b8"
+hash-format = "sha256"
+hash = "e40a5782958eb2c9b6330bf9ef61157f7b3a1048da86e3f107d9b7e13ded5e3c"
 mode = "metadata:curseforge"
 
 [update]

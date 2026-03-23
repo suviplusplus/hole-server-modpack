@@ -1,10 +1,10 @@
 name = "Storage Delight (Fabric)"
 filename = "storagedelight-25.12.09-1.20-fabric.jar"
-side = 'both'
+side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9f24f84b3fb0707beafdfbc296c9c90c1e817916"
+hash-format = "sha256"
+hash = "0af67fdf0d9380fddbf52819a343d437ef5117945d744550080f1269113bb5b8"
 mode = "metadata:curseforge"
 
 [update]

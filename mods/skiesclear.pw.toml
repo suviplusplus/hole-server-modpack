@@ -1,17 +1,14 @@
-filename = 'SkiesClear-fabric-1.20.1-0.1.0-BETA.jar'
-name = 'SkiesClear'
-side = 'both'
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '0.1.0-BETA'
+name = "SkiesClear"
+filename = "SkiesClear-fabric-1.20.1-0.1.0-BETA.jar"
+side = "both"
 
 [download]
-hash = 'bf5324b5891de1f8323fc4ab75383405756c4488f64127a297b6acf8619f2938278348721457876a0bc9c1fc8105b971f5e0ac6e598f74b9efc82adfc3863a14'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/q27Vcznb/versions/ehLWeutn/SkiesClear-fabric-1.20.1-0.1.0-BETA.jar'
+url = "https://cdn.modrinth.com/data/q27Vcznb/versions/ehLWeutn/SkiesClear-fabric-1.20.1-0.1.0-BETA.jar"
+hash-format = "sha256"
+hash = "9e013a3a71960df8269b1050d90299fbc7da95fe18358449de9c8919e4f32ebd"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'q27Vcznb'
-version = 'ehLWeutn'
+mod-id = "q27Vcznb"
+version = "ehLWeutn"

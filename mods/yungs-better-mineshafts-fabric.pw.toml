@@ -1,10 +1,10 @@
 name = "YUNG's Better Mineshafts (Fabric)"
 filename = "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
-side = 'both'
+side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dda3af404d6958f6fed882b8b4ae7827ac78944b"
+hash-format = "sha256"
+hash = "0a4657689217339a1f6079a2d9dda03f6d01beacac59c14e093ded3357db2b86"
 mode = "metadata:curseforge"
 
 [update]

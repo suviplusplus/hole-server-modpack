@@ -1,10 +1,10 @@
 name = "Farmer's Delight x No Tree Punching Cooking Pot"
 filename = "farmersdelight-notreepunching-pot-1.0-fabric.jar"
-side = 'both'
+side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6f1a79af33d458df8ff5c62b97ca6b9162f20e6d"
+hash-format = "sha256"
+hash = "374fe6bc26ba9d4188dab2915f461b85c76bf0518671b1267e3a8120881f82d2"
 mode = "metadata:curseforge"
 
 [update]

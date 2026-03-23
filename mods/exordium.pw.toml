@@ -1,11 +1,11 @@
 name = "Exordium"
 filename = "exordium-fabric-1.4.2-mc1.20.1.jar"
-side = 'both'
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DynYZEae/versions/Wpxm5HM3/exordium-fabric-1.4.2-mc1.20.1.jar"
-hash-format = "sha512"
-hash = "d8d00484d6174faf459bf058a94e50ff40f090955c4afd66269ea8bd85be3b5874c2df248cb629d54026f9eb5ddaa3db4a362ca6534c04b69c816aacf8f8b22d"
+hash-format = "sha256"
+hash = "759ab2762c51f4a367f2b78e2246733a2067f7665c48b905878f5a448c72bb2c"
 
 [update]
 [update.modrinth]
