@@ -1,13 +1,17 @@
-name = "Offline Players"
-filename = "offline_players-1.0.0.jar"
-side = "both"
+filename = 'offline_players-1.0.0.jar'
+name = 'Offline Players'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
 
 [download]
-hash-format = "sha1"
-hash = "ede0f1658b7787daaa1660e6ba4fd28f62f833f6"
-mode = "metadata:curseforge"
+hash = '345651aa7b665547868be688fadfdbac88d777896ca806513493f70b51e55a05c9d53e514e9b69c8701e619a82e8d3cb96a8390daaf6f5dec6e073e5ee04f43b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q11akOLU/versions/EOc90wIq/offline_players-1.0.0.jar'
 
-[update]
-[update.curseforge]
-file-id = 6771583
-project-id = 1307294
+[update.modrinth]
+mod-id = 'Q11akOLU'
+version = 'EOc90wIq'

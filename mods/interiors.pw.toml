@@ -1,13 +1,17 @@
-name = "Create: Interiors"
-filename = "interiors-1.20.1-fabric-0.6.0.jar"
-side = "both"
+filename = 'interiors-1.20.1-fabric-0.6.0.jar'
+name = 'Create: Interiors'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-fabric-0.6.0'
 
 [download]
-hash-format = "sha1"
-hash = "429a2dea60c4efe3eaa172e59b2847b1b9c67e56"
-mode = "metadata:curseforge"
+hash = 'dc54c24d378cec5414005e383e6112642fa00f938e47a3c508ea8090b51cabb669d08d519f0de86f24b45563f3a52c1d6022d9b9094b977b0ea713bde257202e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/r4Knci2k/versions/o01QffwP/interiors-1.20.1-fabric-0.6.0.jar'
 
-[update]
-[update.curseforge]
-file-id = 7338638
-project-id = 906239
+[update.modrinth]
+mod-id = 'r4Knci2k'
+version = 'o01QffwP'

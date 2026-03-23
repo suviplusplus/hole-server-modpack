@@ -1,13 +1,50 @@
-name = "Clean F3"
-filename = "CleanF3-0.4.10.jar"
-side = "both"
+filename = 'CleanF3-0.4.10.jar'
+name = 'Clean F3'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20',
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6',
+    '1.21',
+    '1.21',
+    '1.21.1',
+    '1.21.1',
+    '1.21.2',
+    '1.21.2',
+    '1.21.3',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4',
+    '1.21.5',
+    '1.21.5',
+    '1.21.6',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7',
+    '1.21.8',
+    '1.21.8'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.4.10'
 
 [download]
-hash-format = "sha1"
-hash = "e4b2e232713bfceacb7c2c6a3745fe42a40be368"
-mode = "metadata:curseforge"
+hash = 'a96b2c88c0d630512bd101cb51e850637dfff5d5875da68de7729bbab519217661a37d21e6b77f727a0d950dff90a16ef43b898fc47fcfbb9a19a2fc15c0c06f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5lvjfaRs/versions/sONVk6J8/CleanF3-0.4.10.jar'
 
-[update]
-[update.curseforge]
-file-id = 7382513
-project-id = 882993
+[update.modrinth]
+mod-id = '5lvjfaRs'
+version = 'sONVk6J8'

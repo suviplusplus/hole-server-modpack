@@ -1,0 +1,17 @@
+filename = 'moredelight-25.07.28-1.20-fabric.jar'
+name = "More Delight (for Farmer's Delight)"
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '25.07.28-1.20-fabric'
+
+[download]
+hash = 'ab5c9ba61dd4bd1f960c904b1450a3b2cb5feb1013e13c92462c206068aecc89ba875d99d584795d32be000d08aa6b4bd0b0e8db902b162efd6acaa9f3912c46'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/znHQQtuU/versions/wU4RoctO/moredelight-25.07.28-1.20-fabric.jar'
+
+[update.modrinth]
+mod-id = 'znHQQtuU'
+version = 'wU4RoctO'

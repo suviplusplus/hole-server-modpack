@@ -1,13 +1,17 @@
-name = "Stacked Blocks: Supplementaries"
-filename = "stackedblockssupplementaries-25.06.25-1.20-fabric.jar"
-side = "both"
+filename = 'stackedblockssupplementaries-25.06.25-1.20-fabric.jar'
+name = 'Stacked Blocks: Supplementaries'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '25.06.25-1.20-fabric'
 
 [download]
-hash-format = "sha1"
-hash = "81864d02f0fc2eab4902b1b3e4bec2f328f8e8a7"
-mode = "metadata:curseforge"
+hash = 'e85fb06f97c6c06fe5e63e693d376b18e723986801b638e54e5b17d1a4f4db37b2d54e5477121287fd32a630f663efdaf682caf83edc9ead970ad6b9e7cdec94'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vgtM0kV7/versions/vUBdJR08/stackedblockssupplementaries-25.06.25-1.20-fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 6694728
-project-id = 1259081
+[update.modrinth]
+mod-id = 'vgtM0kV7'
+version = 'vUBdJR08'
