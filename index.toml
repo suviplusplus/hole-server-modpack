@@ -1348,11 +1348,6 @@ hash = "6940513faa90551c2ccbe92dd25dad4efe294b01ea3a3df90d3990240e93adaf"
 metafile = true
 
 [[files]]
-file = "mods/nedologin.pw.toml"
-hash = "17c82142b39193d0226cc8be1467e924457bf749efa7c89e7cec28b27a32d9e8"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "a31074c987ed775d9494921861b4ac447486a0bb1bfe44f531073f8da53aff86"
 metafile = true
