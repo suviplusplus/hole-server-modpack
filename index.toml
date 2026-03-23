@@ -873,6 +873,11 @@ file = "lib/sqlite-jdbc-3.41.0.0.jar"
 hash = "e5ecb1443030799330836594a9dcab56ff7b23ff54228343546448a69610a36c"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "839796c80707ae3ae35b5fe16b510811189da9c798d1482e8887b34e189bb00e"
+metafile = true
+
+[[files]]
 file = "mods/SkiesClear-fabric-1.20.1-0.1.0-BETA.jar"
 hash = "9e013a3a71960df8269b1050d90299fbc7da95fe18358449de9c8919e4f32ebd"
 
@@ -918,6 +923,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "d6203ee8a6021cb465777bbce5d6c09a5d7bda9d34fa2acd089d9a0d13d66c14"
+metafile = true
+
+[[files]]
+file = "mods/bluemap-offline-player-markers-(fabric).pw.toml"
+hash = "0c64957cbbc122e1d0a495648b6cf42e5267e4343b54b3f72aaab864859fd096"
 metafile = true
 
 [[files]]
@@ -1062,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5889fbe04b8755d104e035c400bf2cad41173dd1337ed91576e06c3955bfcbed"
+hash = "7eefb0f3d1b793f7dc57ee7cf368d055c9b1bf3556f61179f38f1c49c163c1bd"
 metafile = true
 
 [[files]]
@@ -1072,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "85bb78dc43d8b6c710b21f1b54e6c31385db0d3469c19929b47b1ab40d2e18af"
+hash = "0a9a66216a19c024c0ca41b34807cbf6ee1030a64d6bf99dac495db4e32af11e"
 metafile = true
 
 [[files]]
@@ -1150,7 +1160,7 @@ hash = "ae5f6f3dba07d151fc1649e038992d0b955ea26528d8833d9b770fb8808d1482"
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "b29bbd601ff38d25aaaf280451027813e30fdbd896d456500a2a47896bc2aa4f"
+hash = "586c398617495841e527db2b4f72b1e72538fc8fadd3f4b99cd52d48a0b8c191"
 metafile = true
 
 [[files]]
@@ -1302,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "b0c10c03bdf964b69ac03fb04410690a8840d4f620322d47be5b009512e4379d"
+hash = "60f6b33b5013983cb8afce8c1a5c398834b309b5d41d51ea5a19b01d0b412c87"
 metafile = true
 
 [[files]]
@@ -1312,7 +1322,7 @@ metafile = true
 
 [[files]]
 file = "mods/offline-players.pw.toml"
-hash = "4dac84388528247743d2015a94855b5b7eba414f9151381c018a7ac0786945b2"
+hash = "ebd3005268f9f5290e880b1b8052c650e1f13dbf75b8d113a243ff78633abd2d"
 metafile = true
 
 [[files]]
@@ -1367,7 +1377,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "62d685e001957b2f677675df77e3d96be4ba9ce28cd19b286dc7b386a5b472b0"
+hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
 metafile = true
 
 [[files]]
@@ -1377,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "2513244ea2b0b1d177ebdf25ab04ff047496d1cabbea34ebc3fc8a8fd4c86cab"
+hash = "b1dd6ac8ea2df432d01c0c2f93634f96d5e7b15439c41f0d8b050bca8714bace"
 metafile = true
 
 [[files]]

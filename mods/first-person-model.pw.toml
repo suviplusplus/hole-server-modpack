@@ -1,17 +1,13 @@
-filename = 'firstperson-fabric-2.6.3-mc1.20.1.jar'
-name = 'First-person Model'
-side = ''
-x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.6.3'
+name = "First-person Model"
+filename = "firstperson-fabric-2.6.3-mc1.20.1.jar"
+side = "client"
 
 [download]
-hash = '677ba47f92cf3a5ecedab5c2a042bb4a7196bf49f1b3716eabf9f4557d8688866cda1ada3140c8ad6ec55da2d91f5fa080f3612dae11ca9c975b354d5cec25c0'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/H5XMjpHi/versions/GHHoXPCC/firstperson-fabric-2.6.3-mc1.20.1.jar'
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/GHHoXPCC/firstperson-fabric-2.6.3-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "677ba47f92cf3a5ecedab5c2a042bb4a7196bf49f1b3716eabf9f4557d8688866cda1ada3140c8ad6ec55da2d91f5fa080f3612dae11ca9c975b354d5cec25c0"
 
+[update]
 [update.modrinth]
-mod-id = 'H5XMjpHi'
-version = 'GHHoXPCC'
+mod-id = "H5XMjpHi"
+version = "GHHoXPCC"
