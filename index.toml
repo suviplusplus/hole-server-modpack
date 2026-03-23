@@ -878,10 +878,6 @@ hash = "484973319009fb6e97c792c3eaf5265d96d8e27f357186baff4f2c654371ca90"
 metafile = true
 
 [[files]]
-file = "mods/SkiesClear-fabric-1.20.1-0.1.0-BETA.jar"
-hash = "9e013a3a71960df8269b1050d90299fbc7da95fe18358449de9c8919e4f32ebd"
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "b5aea3bd189a3e7c6724b03d395f7467baf82cf12a9f98736a9110c544d9bf49"
 metafile = true
@@ -917,10 +913,6 @@ hash = "66bd86879193addd9e224bdda6d2f12528828c60371d8e8bab0d0e3b02973e53"
 metafile = true
 
 [[files]]
-file = "mods/balm-fabric-1.20.1-7.3.38.jar"
-hash = "79b2da7aaf1b4b6dbd181049da88af63457450d565294e34794d6590b13a2b89"
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "21c5227e4fa46bc0974195a9385d5d4adf62a8e62c9cc2e3126a439d2c7a1192"
 metafile = true
@@ -954,14 +946,6 @@ metafile = true
 file = "mods/chat-heads.pw.toml"
 hash = "d1b24a641b8fccd90ab50af4f1deeb122a0924c870407971c9c76255b87efb15"
 metafile = true
-
-[[files]]
-file = "mods/chcf-1.0.0.jar"
-hash = "676b4f53c5999a5eea7c9a1f6eae94069d29933759d40643e741c016b6bfd215"
-
-[[files]]
-file = "mods/cheaper-leads-1.0.jar"
-hash = "5e4bc4302828d620fb02a802e8613ddaa5e96d4a2e93cfb06e293c019517c3cc"
 
 [[files]]
 file = "mods/cheaper-leads.pw.toml"
@@ -1029,10 +1013,6 @@ hash = "b39105ba08d202add9ab3f19f6d6add6a38d962ed545b0896c74abf1da1418b6"
 metafile = true
 
 [[files]]
-file = "mods/create-structures-0.1.1-1.20.1-FABRIC.jar"
-hash = "3167a3a00232e115eab4afdab277e2d0c4d29c8bf68c77b57b5328cccb9db4f6"
-
-[[files]]
 file = "mods/create-structures.pw.toml"
 hash = "61d4c24916a40c38f0a105bce07b902f286d00dbd963a0e168520d267e846e07"
 metafile = true
@@ -1056,14 +1036,6 @@ metafile = true
 file = "mods/default-options.pw.toml"
 hash = "0f45e3973360c76157320f989db9ed61fadae8730ac7578833ee7af96d27bbe9"
 metafile = true
-
-[[files]]
-file = "mods/defaultoptions-fabric-1.20.1-18.0.4.jar"
-hash = "156beef739db544ea063aba936f62e0c88756f2b1e29f9d68e679e1dd21858e1"
-
-[[files]]
-file = "mods/delightful-creators-1.5-1.20.x.jar"
-hash = "df77567ad187d69687fb4d3925dfbcc3df4a12043d63b6ef0fd00de9c9de6769"
 
 [[files]]
 file = "mods/delightful-creators.pw.toml"
@@ -1216,14 +1188,6 @@ hash = "fc1beaaff15c0b8f9b32b3cc75af0154fe504b95dcb68510a9fb1b3241f38ee1"
 metafile = true
 
 [[files]]
-file = "mods/figuraextrabone-0.0.3-fabric-1.20.1.jar"
-hash = "2f226cebffc37bde33aa8e288589f0eadc03e7e689c38c4594f9dc96fd96520c"
-
-[[files]]
-file = "mods/figurasvc-2.0.1+1.20.1.jar"
-hash = "ae5f6f3dba07d151fc1649e038992d0b955ea26528d8833d9b770fb8808d1482"
-
-[[files]]
 file = "mods/figurasvc.pw.toml"
 hash = "0502e0fb3bda117b0827e08b7a34f0adcf6adc183323e93ac93fbff5b2f6bf41"
 metafile = true
@@ -1232,10 +1196,6 @@ metafile = true
 file = "mods/first-person-model.pw.toml"
 hash = "e9140439b67aef884936e3213417b4e7a64bc8a16b0ac00fc4337f54aebea300"
 metafile = true
-
-[[files]]
-file = "mods/forcetablistheads-1.0-SNAPSHOT.jar"
-hash = "e9119fd0e22dbb8061ba0e81184ed4f82b562e4073e549aad7011cb9322941d3"
 
 [[files]]
 file = "mods/forcetablistheads.pw.toml"
@@ -1328,10 +1288,6 @@ hash = "6c3bbe1698fb979ba44a65e73d2b95f707822b6f440b1c00807005033d77d752"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
-hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "15b8d551c51a92847b99d80563814c628f559e90fd4b649217c3363f11f4458e"
 metafile = true
@@ -1390,10 +1346,6 @@ metafile = true
 file = "mods/moreculling.pw.toml"
 hash = "6940513faa90551c2ccbe92dd25dad4efe294b01ea3a3df90d3990240e93adaf"
 metafile = true
-
-[[files]]
-file = "mods/nedologin-2.0.3.jar"
-hash = "60210d3d2d131d7b7451125ca5fbabfe3ab76c407854694f7ff644f8f19288a4"
 
 [[files]]
 file = "mods/nedologin.pw.toml"
@@ -1626,10 +1578,6 @@ hash = "7fe42c3bb06ebce5a73554d138243e73ac1a95b4acc5217c61834322fece7821"
 metafile = true
 
 [[files]]
-file = "mods/voicechat-fabric-1.20.1-2.6.12.jar"
-hash = "57bf58d01a6931b1a35cf7456e56e2c6965db1fd53def97d72e819cde7b30780"
-
-[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "9ca5c6a378ea44c2ff946e0d2e97fd0f10f1c1fa0a7fe917124d25542b267d95"
 metafile = true
@@ -1768,10 +1716,6 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "d62f36c56ac2a1af31ca8d8374dfa05474144ff2f3da65a4bae2265d62029821"
 metafile = true
-
-[[files]]
-file = "mods/zRemove_SDL_Intro_v1.2.1.jar"
-hash = "5c102274167644d151973e2b4157dd6fe0aea55718ec3c9d25802e8a0dc6793f"
 
 [[files]]
 file = "mods/zoomify.pw.toml"
