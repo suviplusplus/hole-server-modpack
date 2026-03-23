@@ -936,11 +936,6 @@ hash = "35e5a46a9fee5b0344d42c1c3edbec21105441b908c5ea59409b8fc1a720e55b"
 metafile = true
 
 [[files]]
-file = "mods/bluemap-offline-player-markers-(fabric).pw.toml"
-hash = "07255fac65691ca9082bcc251c5ccad563d1aa4e7886f53155448009626c4a81"
-metafile = true
-
-[[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
 hash = "ca8d97fbb8fbf67416f8030d5d848e6314239a72346782b8f78897f9c4ece3b9"
 metafile = true
