@@ -1,0 +1,22 @@
+{
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "top": 21
+            },
+            "SETTINGS": {
+                "top": 19
+            }
+        }
+    },
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "top": 22
+            },
+            "SETTINGS": {
+                "top": 20
+            }
+        }
+    }
+}

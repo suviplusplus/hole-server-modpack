@@ -1,0 +1,13 @@
+name = "bendy-lib"
+filename = "bendy-lib-fabric-4.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6639521e0dcdbe8d35c17dd05cec2cafa1fa522a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4550370
+project-id = 623373

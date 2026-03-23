@@ -1,0 +1,13 @@
+name = "Stacked Blocks"
+filename = "stackedblocks-25.02.13-1.20-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53d55514a9761660c0d60e246fe98732019b74be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6189779
+project-id = 1144737

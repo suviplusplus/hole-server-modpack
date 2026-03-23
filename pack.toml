@@ -1,0 +1,16 @@
+name = "hole"
+author = "suvi"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4694d21b14ef1b8a277d48f64191cbba0eebf0670c89db62b510b42e0367afa5"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20.1"]

@@ -1,0 +1,27 @@
+{
+    "ModSettings": {
+        "highlight_foused_items": {
+            "value": false
+        },
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": {
+            "value": false
+        },
+        "enable_profiles_announcement": false
+    },
+    "AutoRefillSettings": {
+        "allow_break_for_non_enchanted": {
+            "value": true
+        },
+        "audio_durability_notification": {
+            "value": false
+        },
+        "number_of_notifications": 1,
+        "audio_replace_failed_notification": {
+            "value": false
+        },
+        "type_visual_replace_failed_notification": "HOTBAR"
+    }
+}

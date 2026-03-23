@@ -1,0 +1,13 @@
+name = "Offline Players"
+filename = "offline_players-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ede0f1658b7787daaa1660e6ba4fd28f62f833f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6771583
+project-id = 1307294

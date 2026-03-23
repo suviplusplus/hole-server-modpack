@@ -1,0 +1,13 @@
+name = "YUNG's Better Caves (Fabric)"
+filename = "YungsBetterCaves-1.20.1-Fabric-2.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f5d948518351030ab0e4eaaa3250672bd0dfb47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6984601
+project-id = 408465
