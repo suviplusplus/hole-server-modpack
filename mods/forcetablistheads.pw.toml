@@ -1,6 +1,6 @@
 filename = 'forcetablistheads-1.0-SNAPSHOT.jar'
 name = 'ForceTablistHeads'
-side = "both"
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.20',

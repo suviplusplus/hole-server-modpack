@@ -1,6 +1,6 @@
 filename = 'delightful-creators-1.5-1.20.x.jar'
 name = 'Delightful Creators'
-side = "both"
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.20.1',

@@ -1,6 +1,6 @@
 filename = 'fabric-seasons-terralith-2.3.7-compat-1.0.jar'
 name = 'Fabric Seasons: Terralith Compat'
-side = "both"
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.19.2',

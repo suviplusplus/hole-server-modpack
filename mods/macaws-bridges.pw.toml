@@ -1,6 +1,6 @@
 filename = 'mcw-bridges-3.1.2-mc1.20.1fabric.jar'
 name = "Macaw's Bridges"
-side = "both"
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
 x-prismlauncher-release-type = 'release'

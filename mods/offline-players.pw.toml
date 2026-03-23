@@ -1,6 +1,6 @@
 name = "Offline Players"
 filename = "offline_players-1.0.0.jar"
-side = "both"
+side = 'both'
 
 [download]
 url = "https://cdn.modrinth.com/data/Q11akOLU/versions/EOc90wIq/offline_players-1.0.0.jar"

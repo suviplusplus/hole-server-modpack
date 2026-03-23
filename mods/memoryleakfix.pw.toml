@@ -1,6 +1,6 @@
 filename = 'memoryleakfix-fabric-1.17+-1.1.5.jar'
 name = 'Memory Leak Fix'
-side = "both"
+side = 'both'
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.17',

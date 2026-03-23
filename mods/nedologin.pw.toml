@@ -1,6 +1,6 @@
 filename = 'nedologin-2.0.3.jar'
 name = 'Nedologin'
-side = "both"
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
 x-prismlauncher-release-type = 'release'

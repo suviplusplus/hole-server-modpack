@@ -1,6 +1,6 @@
 name = "YUNG's Better Dungeons (Fabric)"
 filename = "YungsBetterDungeons-1.20-Fabric-4.0.4.jar"
-side = "both"
+side = 'both'
 
 [download]
 hash-format = "sha1"

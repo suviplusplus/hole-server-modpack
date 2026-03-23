@@ -1,6 +1,6 @@
 filename = 'cheaper-leads-1.0.jar'
 name = 'Cheaper Lead Recipe'
-side = "both"
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.15',

@@ -1,6 +1,6 @@
 name = "3D Skin Layers"
 filename = "skinlayers3d-fabric-1.10.2-mc1.20.1.jar"
-side = "both"
+side = 'both'
 
 [download]
 url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/7CwZ2Zhg/skinlayers3d-fabric-1.10.2-mc1.20.1.jar"

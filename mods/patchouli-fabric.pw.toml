@@ -1,6 +1,6 @@
 name = "Patchouli (Fabric/Quilt)"
 filename = "Patchouli-1.20.1-85-FABRIC.jar"
-side = "both"
+side = 'both'
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "Traveler's Backpack [Fabric]"
 filename = "travelersbackpack-fabric-1.20.1-9.1.50.jar"
-side = "both"
+side = 'both'
 
 [download]
 hash-format = "sha1"
