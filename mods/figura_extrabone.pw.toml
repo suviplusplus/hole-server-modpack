@@ -1,6 +1,6 @@
 name = "Figura ExtraBone"
 filename = "figuraextrabone-0.0.3-fabric-1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/PNBaqE8G/versions/gk3Nq0L9/figuraextrabone-0.0.3-fabric-1.20.1.jar"

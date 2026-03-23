@@ -1207,12 +1207,12 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "21fd6faa989fa4b14bbd4a363514291f2b8a086ebbfae98e350d98fc9337f67c"
+hash = "4fa90792f33729f50deff7ee2fcbd9eeab2c8e8262f782c2cf2f216ea3a0edfb"
 metafile = true
 
 [[files]]
 file = "mods/figura_extrabone.pw.toml"
-hash = "f1c31673adcfbefeed294af1e39e6f117e7c52fa411aafe1e50599a1a4c128ea"
+hash = "fc1beaaff15c0b8f9b32b3cc75af0154fe504b95dcb68510a9fb1b3241f38ee1"
 metafile = true
 
 [[files]]
@@ -1225,7 +1225,7 @@ hash = "ae5f6f3dba07d151fc1649e038992d0b955ea26528d8833d9b770fb8808d1482"
 
 [[files]]
 file = "mods/figurasvc.pw.toml"
-hash = "94a978b1c40dda09111f1679d38acbd6c826d4336230d2e8413741aaeac50cde"
+hash = "0502e0fb3bda117b0827e08b7a34f0adcf6adc183323e93ac93fbff5b2f6bf41"
 metafile = true
 
 [[files]]
