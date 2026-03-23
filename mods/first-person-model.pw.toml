@@ -1,6 +1,6 @@
 name = "First-person Model"
 filename = "firstperson-fabric-2.6.3-mc1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/GHHoXPCC/firstperson-fabric-2.6.3-mc1.20.1.jar"

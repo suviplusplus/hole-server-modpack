@@ -1,6 +1,6 @@
 filename = 'CleanF3-0.4.10.jar'
 name = 'Clean F3'
-side = ''
+side = "both"
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.20',

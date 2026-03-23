@@ -1,6 +1,6 @@
 filename = 'farmersdelight-notreepunching-pot-1.0-fabric.jar'
 name = "Farmer's Delight x No Tree Punching Cooking Pot"
-side = ''
+side = "both"
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.18.2', '1.18.2', '1.19.2', '1.19.2', '1.20', '1.20', '1.20.1', '1.20.1' ]
 x-prismlauncher-release-type = 'beta'

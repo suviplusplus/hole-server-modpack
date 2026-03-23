@@ -1,6 +1,6 @@
 filename = 'fabric-seasons-delight-1.3.9-compat-1.0.jar'
 name = 'Fabric Seasons: Delight Compat'
-side = ''
+side = "both"
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.19.2',

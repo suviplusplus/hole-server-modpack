@@ -1,6 +1,6 @@
 filename = 'zRemove_SDL_Intro_v1.2.1.jar'
 name = 'Remove Stardust Labs Intro Message'
-side = ''
+side = "both"
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [
     '1.19',

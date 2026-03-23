@@ -1,6 +1,6 @@
 filename = 'farmersknives-3.2.jar'
 name = "Farmer's Knives"
-side = ''
+side = "both"
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
 x-prismlauncher-release-type = 'release'

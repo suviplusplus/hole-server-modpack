@@ -1,6 +1,6 @@
 filename = 'fabric-seasons-2.4.2-BETA+1.20.jar'
 name = 'Fabric Seasons'
-side = ''
+side = "both"
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
 x-prismlauncher-release-type = 'beta'

@@ -1,6 +1,6 @@
 filename = 'styled-nicknames-1.2.1+1.20.jar'
 name = 'Styled Nicknames'
-side = ''
+side = "both"
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20 rc1', '1.20-rc1', '1.20.1', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
